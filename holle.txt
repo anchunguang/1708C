@@ -1,2 +1,4 @@
 public String A{
+  private int uid;
+  private String uname;
 }
